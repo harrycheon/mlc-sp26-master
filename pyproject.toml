@@ -1,0 +1,13 @@
+[project]
+name = "dsc-mlc-sp26"
+version = "0.0.1"
+description = "DSC 190/291 Machine Learning Competitions (SP26)"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "scikit-learn",
+    "scikit-survival",
+    "pyarrow",
+]
