@@ -170,6 +170,6 @@ src/                               # base model template (from course repo)
 ## Submission
 
 1. **GitHub:** Push your baseline model to your `mlc-sp26-<username>` repo (make sure `ustunb` and `harrycheon` are added as collaborators)
-2. **Google Form:** Submit the Ramp-Up Assignment 1 form (link on Canvas)
+2. **Google Form:** Submit the [Ramp-Up Assignment 1 form](https://docs.google.com/forms/d/e/1FAIpQLSfVqsnPryWBclhKUWdaMYkBcsTsRSIgXEIlDWzN8li-Op4q4Q/viewform)
 
 We will clone your repo, run `uv run python ramp1_submission.py --data-dir <competition>/data`, and verify that the printed score matches what you reported.
